@@ -14,7 +14,7 @@
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 #### 📚 I want to learn
 
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)<br />
 If this seems like a lot of languages or a strange combination, it's because it is! A lot of these I know from either being forced to during school, taking on old projects, doing random work, testing, or my past self.
 
 #### 🔧 Tools and Services
