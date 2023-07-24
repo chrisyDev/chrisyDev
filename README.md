@@ -15,8 +15,6 @@
 #### 📚 I want to learn
 
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)<br />
-If this seems like a lot of languages or a strange combination, it's because it is! A lot of these I know from either being forced to during school, taking on old projects, doing random work, testing, or my past self.
-
 #### 🔧 Tools and Services
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org) 
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
