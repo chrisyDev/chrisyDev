@@ -21,3 +21,4 @@
 [![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)](https://www.stripe.com)<br />(100% the best<br /> relational database, <br />prove me wrong)
 
 Other than that, there's not much else about me. I'm working on a portfolio site which should be up sooner or later.
+Edit: I'm still working on a portfolio site, but it might be ready by 2027
